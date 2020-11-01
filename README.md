@@ -32,8 +32,11 @@ Designed for the hskrc Chameleon frame to hold an old NEO-M8N GPS module
 
 # dual syringe holder for 2k epoxy
 [STL file part1](https://github.com/MerzSebastian/OpenScad/blob/main/models/dual_syringe_holder/dual_syringe_holder_part_1.stl) | [openscad file part1](https://github.com/MerzSebastian/OpenScad/blob/main/models/dual_syringe_holder/dual_syringe_holder_part_1.scad)
+
 [STL file part2](https://github.com/MerzSebastian/OpenScad/blob/main/models/dual_syringe_holder/dual_syringe_holder_part_2.stl) | [openscad file part2](https://github.com/MerzSebastian/OpenScad/blob/main/models/dual_syringe_holder/dual_syringe_holder_part_2.scad)
+
 [STL file part3](https://github.com/MerzSebastian/OpenScad/blob/main/models/dual_syringe_holder/dual_syringe_holder_part_3.stl) | [openscad file part3](https://github.com/MerzSebastian/OpenScad/blob/main/models/dual_syringe_holder/dual_syringe_holder_part_3.scad)
+
 
 Designed for 20x20mm stack and Caddx Turbo EOS2 camera
 
