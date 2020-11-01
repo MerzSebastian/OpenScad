@@ -3,7 +3,7 @@
 Some OpenScad models I designed.
 
 # 20x20mm cannopy for fpv toothpick drone
-
+[STL file](https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm.stl) | [openscad file](https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm.scad)
 Designed for 20x20mm stack and Caddx Turbo EOS2 camera
 
 ![empty](https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm.PNG)
