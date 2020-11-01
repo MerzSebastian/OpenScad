@@ -6,8 +6,10 @@ Some OpenScad models I designed.
 
 Designed for 20x20mm stack and Caddx Turbo EOS2 camera
 
-[[/models/cannopy_20x20mm/cannopy_20x20mm.PNG|empty]]
-[[/models/cannopy_20x20mm/cannopy_20x20mm_2.PNG|empty]]
+[[https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm.PNG|empty]]
+[[https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm_2.PNG|empty]]
+![empty](https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm.PNG)
+![empty](https://github.com/MerzSebastian/OpenScad/blob/main/models/cannopy_20x20mm/cannopy_20x20mm_2.PNG)
 
 
 # adapter 20x20mm stack - mini vtx 
